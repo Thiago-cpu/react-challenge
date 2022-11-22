@@ -78,6 +78,7 @@ export default function Home() {
           pagination
           rowCount={12}
           paginationMode="server"
+          rowsPerPageOptions={[5]}
         />
       </div>
       <BandDialog
