@@ -15,3 +15,8 @@ npm run dev
 # or
 yarn dev
 ```
+
+## login
+
+username: admin
+password: 123
